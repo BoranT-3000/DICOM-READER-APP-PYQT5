@@ -220,4 +220,4 @@ nibabel
 
 ## 📜 Lisans
 
-Bu repo için henüz bir lisans belirtilmedi. İstersen MIT/Apache-2.0 gibi bir lisans ekleyebilirsin.
+MIT
